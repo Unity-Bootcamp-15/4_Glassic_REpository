@@ -1,2 +1,2 @@
 # 4_Glassic_REpository
-4팀 래포지토리
+이곳은 4팀 래포지토리입니다
